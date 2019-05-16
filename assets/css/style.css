@@ -15,7 +15,6 @@ h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Georgia, 'Times New Roman', Times, serif;
     border-bottom: 3px solid #cccccc;
-    width: 100%;
 }
 
 h4 {
@@ -46,7 +45,6 @@ li :hover {
     text-align: center;
     color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    /* margin-bottom: 170px; */
 }
 
 .navbar {
@@ -63,6 +61,14 @@ li :hover {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+.row {
+    margin-top: 10px;
+}
+
+#contactPage {
+    margin-top: 10px;
+}
+
 #footer {
     margin-top: 60px;
     padding-top: 30px;
@@ -71,4 +77,8 @@ li :hover {
     background-color: #666666;
     color: #cccccc;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#lastP {
+    margin-bottom: 70px;
 }
